@@ -9,7 +9,7 @@
 
 void myPrintHelloMake(void) {
 
-  printf("Hello makefiles!\n");
+  printf("[Info] binary ok!\n");
 
   return;
 }
