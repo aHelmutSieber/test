@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 void myPrintHelloMake(void) {
-
+  printf("[Info] Testing Jenkins\n");
   printf("[Info] binary ok!\n");
 
   return;
