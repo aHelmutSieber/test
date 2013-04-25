@@ -9,6 +9,8 @@
 
 void myPrintHelloMake(void) {
   printf("[Info] Testing Jenkins\n");
+  printf("[Info] branch: branch_test\n");
+  printf("[Info] added commit\n");
   printf("[Info] binary ok!\n");
 
   return;
